@@ -1,0 +1,10 @@
+D:\Projects\KFCJira\KFCJira\bin\Debug\netcoreapp2.0\KFCJira.deps.json
+D:\Projects\KFCJira\KFCJira\bin\Debug\netcoreapp2.0\KFCJira.runtimeconfig.json
+D:\Projects\KFCJira\KFCJira\bin\Debug\netcoreapp2.0\KFCJira.runtimeconfig.dev.json
+D:\Projects\KFCJira\KFCJira\bin\Debug\netcoreapp2.0\KFCJira.dll
+D:\Projects\KFCJira\KFCJira\bin\Debug\netcoreapp2.0\KFCJira.pdb
+D:\Projects\KFCJira\KFCJira\obj\Debug\netcoreapp2.0\KFCJira.csproj.CoreCompileInputs.cache
+D:\Projects\KFCJira\KFCJira\obj\Debug\netcoreapp2.0\KFCJira.AssemblyInfoInputs.cache
+D:\Projects\KFCJira\KFCJira\obj\Debug\netcoreapp2.0\KFCJira.AssemblyInfo.cs
+D:\Projects\KFCJira\KFCJira\obj\Debug\netcoreapp2.0\KFCJira.dll
+D:\Projects\KFCJira\KFCJira\obj\Debug\netcoreapp2.0\KFCJira.pdb

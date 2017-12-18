@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFCJira", "KFCJira\KFCJira.csproj", "{513FAB3F-943B-4F0C-B103-1F2C5F1CD469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFCJIraWebTest", "KFCJIraWebTest\KFCJIraWebTest.csproj", "{D32F14DF-365E-4385-B1E8-E133D1CF0B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{513FAB3F-943B-4F0C-B103-1F2C5F1CD469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513FAB3F-943B-4F0C-B103-1F2C5F1CD469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513FAB3F-943B-4F0C-B103-1F2C5F1CD469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513FAB3F-943B-4F0C-B103-1F2C5F1CD469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32F14DF-365E-4385-B1E8-E133D1CF0B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32F14DF-365E-4385-B1E8-E133D1CF0B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32F14DF-365E-4385-B1E8-E133D1CF0B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32F14DF-365E-4385-B1E8-E133D1CF0B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

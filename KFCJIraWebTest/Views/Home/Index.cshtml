@@ -1,0 +1,18 @@
+﻿
+<html>
+<head >
+ <title>fuck</title>
+</head>
+<body>
+@foreach (var issue in Model.Issues)
+{
+    <div style="color:green">Запись</div>
+    <div><strong>Name: </strong>@issue.Name</div>
+    <div><strong>Description:</strong> @issue.Description</div>
+    <div><strong>CreationDate:</strong> @issue.CreationDate</div>
+    <div><strong>Status:</strong> @issue.Status</div>
+    <div style="color:green">Конец записи</div>
+    <br/>
+}
+</body>
+</html>

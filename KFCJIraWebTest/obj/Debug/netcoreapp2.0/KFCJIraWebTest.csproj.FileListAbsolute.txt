@@ -1,0 +1,10 @@
+D:\Projects\KFCJira\KFCJIraWebTest\obj\Debug\netcoreapp2.0\KFCJIraWebTest.csproj.CoreCompileInputs.cache
+D:\Projects\KFCJira\KFCJIraWebTest\obj\Debug\netcoreapp2.0\KFCJIraWebTest.AssemblyInfoInputs.cache
+D:\Projects\KFCJira\KFCJIraWebTest\obj\Debug\netcoreapp2.0\KFCJIraWebTest.AssemblyInfo.cs
+D:\Projects\KFCJira\KFCJIraWebTest\bin\Debug\netcoreapp2.0\KFCJIraWebTest.deps.json
+D:\Projects\KFCJira\KFCJIraWebTest\bin\Debug\netcoreapp2.0\KFCJIraWebTest.runtimeconfig.json
+D:\Projects\KFCJira\KFCJIraWebTest\bin\Debug\netcoreapp2.0\KFCJIraWebTest.runtimeconfig.dev.json
+D:\Projects\KFCJira\KFCJIraWebTest\bin\Debug\netcoreapp2.0\KFCJIraWebTest.dll
+D:\Projects\KFCJira\KFCJIraWebTest\bin\Debug\netcoreapp2.0\KFCJIraWebTest.pdb
+D:\Projects\KFCJira\KFCJIraWebTest\obj\Debug\netcoreapp2.0\KFCJIraWebTest.dll
+D:\Projects\KFCJira\KFCJIraWebTest\obj\Debug\netcoreapp2.0\KFCJIraWebTest.pdb
