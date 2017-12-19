@@ -27,11 +27,8 @@ namespace KFCJira.Services
         {
             var storageUrl = API.Storage.SendToStorage(_baseStorageUrl);
             //TODO спрятать в отдельном классе
-            var content = JsonConvert.SerializeObject(issue);
-            var buffer = Encoding.UTF8.GetBytes(content);
-            var byteContent = new ByteArrayContent(buffer);
-            byteContent.Headers.ContentType = new MediaTypeHeaderValue("application/json");
-            await _httpClient.PostAsync(storageUrl, byteContent);
+            var content = new StringContent(JsonConvert.SerializeObject(issue), Encoding.UTF8, "application/json");
+            await _httpClient.PostAsync(storageUrl, content);
         }
     }
 }

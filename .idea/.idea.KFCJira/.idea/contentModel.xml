@@ -3,6 +3,34 @@
   <component name="ContentModelStore">
     <e p="C:\Users\evilk\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_KFCJira.-2097044088.00" t="ExcludeRecursive" />
     <e p="D:\Projects\KFCJira" t="IncludeFlat">
+      <e p="JiraConfigurationService" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ConfigurationController.cs" t="Include" />
+        </e>
+        <e p="JiraConfigurationService.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="WebHookEventType.cs" t="Include" />
+          <e p="WebHookModel.cs" t="Include" />
+          <e p="WebHookSettings.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="JiraConfigurationService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Services" t="Include">
+          <e p="IJiraConfigurationService.cs" t="Include" />
+          <e p="JiraConfigurationService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
       <e p="KFCJira" t="IncludeRecursive">
         <e p="API.cs" t="Include" />
         <e p="AppSettings.cs" t="Include" />

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc33b302-7ad7-41ec-93ca-6994d2997e3e" name="Default" comment="" />
+    <list default="true" id="fc33b302-7ad7-41ec-93ca-6994d2997e3e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.KFCJira/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JiraConfigurationService/Controllers/ConfigurationController.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JiraConfigurationService/Models/WebHookEventType.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JiraConfigurationService/Models/WebHookModel.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JiraConfigurationService/Models/WebHookSettings.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JiraConfigurationService/Services/IJiraConfigurationService.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JiraConfigurationService/Services/JiraConfigurationService.cs" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KFCJira/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.KFCJira/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KFCJira/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.KFCJira/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/KFCJira.sln" afterPath="$PROJECT_DIR$/KFCJira.sln" />
+      <change beforePath="$PROJECT_DIR$/KFCJira/Services/StorageService.cs" afterPath="$PROJECT_DIR$/KFCJira/Services/StorageService.cs" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +26,14 @@
       <file leaf-file-name="StorageService.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KFCJira/Services/StorageService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="285">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
-                <marker date="1513624636116" expanded="false" signature="6:349" ph="..." />
-                <marker date="1513624636116" expanded="true" signature="377:1279" ph="{...}" />
-                <marker date="1513624636116" expanded="true" signature="427:1277" ph="{...}" />
-                <marker date="1513624636116" expanded="true" signature="602:723" ph="{...}" />
-                <marker date="1513624636116" expanded="true" signature="793:1271" ph="{...}" />
+                <marker date="1513642849299" expanded="false" signature="6:349" ph="..." />
+                <marker date="1513642849299" expanded="true" signature="377:1119" ph="{...}" />
+                <marker date="1513642849299" expanded="true" signature="427:1117" ph="{...}" />
+                <marker date="1513642849299" expanded="true" signature="602:723" ph="{...}" />
+                <marker date="1513642849299" expanded="true" signature="793:1111" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -30,8 +42,8 @@
       <file leaf-file-name="JiraService.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KFCJira/Services/JiraService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="225">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <marker date="1513636379187" expanded="false" signature="6:212" ph="..." />
                 <marker date="1513636379187" expanded="true" signature="240:1206" ph="{...}" />
@@ -43,107 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IStorageService.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KFCJira/Services/IStorageService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding>
-                <marker date="1513624636092" expanded="false" signature="6:111" ph="..." />
-                <marker date="1513624636092" expanded="true" signature="139:241" ph="{...}" />
-                <marker date="1513624636092" expanded="true" signature="178:239" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KFCJira/appsettings.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StorageController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KFCJIraWebTest/Controllers/StorageController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding>
-                <marker date="1513633248825" expanded="true" signature="6:136" ph="..." />
-                <marker date="1513633248825" expanded="true" signature="174:618" ph="{...}" />
-                <marker date="1513633248825" expanded="true" signature="257:616" ph="{...}" />
-                <marker date="1513633248825" expanded="true" signature="368:420" ph="{...}" />
-                <marker date="1513633248825" expanded="true" signature="551:610" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KFCJIraWebTest/Views/Home/Index.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-              <folding>
-                <marker date="1513634980970" expanded="true" signature="1:442" ph="&lt;html.../&gt;" />
-                <marker date="1513634980970" expanded="true" signature="8:44" ph="&lt;head.../&gt;" />
-                <marker date="1513634980970" expanded="true" signature="45:434" ph="&lt;body.../&gt;" />
-                <marker date="1513634980970" expanded="true" signature="52:426" ph="@..." />
-                <marker date="1513634980970" expanded="true" signature="88:426" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IssueFieldsModel.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KFCJira/Models/JiraIssue/IssueFieldsModel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <marker date="1513624652696" expanded="false" signature="6:41" ph="..." />
-                <marker date="1513624652696" expanded="true" signature="77:488" ph="{...}" />
-                <marker date="1513624652696" expanded="true" signature="113:486" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AssigneeDeveloperModel.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KFCJira/Models/JiraIssue/AssigneeDeveloperModel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <marker date="1513624652681" expanded="true" signature="34:268" ph="{...}" />
-                <marker date="1513624652681" expanded="true" signature="76:266" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KFCIssue.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KFCJIraWebTest/Models/KFCIssue.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-              <folding>
-                <marker date="1513631766674" expanded="true" signature="39:532" ph="{...}" />
-                <marker date="1513631766674" expanded="true" signature="67:530" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JiraController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JiraController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KFCJira/Controllers/JiraController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="15">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <marker date="1513636924698" expanded="false" signature="6:181" ph="..." />
                 <marker date="1513636924698" expanded="true" signature="212:1399" ph="{...}" />
@@ -158,6 +74,113 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ConfigurationController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Controllers/ConfigurationController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+              <folding>
+                <marker date="1513644274584" expanded="true" signature="6:227" ph="..." />
+                <marker date="1513644274584" expanded="true" signature="275:1869" ph="{...}" />
+                <marker date="1513644274584" expanded="true" signature="361:1867" ph="{...}" />
+                <marker date="1513644274584" expanded="true" signature="522:594" ph="{...}" />
+                <marker date="1513644274584" expanded="true" signature="698:871" ph="{...}" />
+                <marker date="1513644274584" expanded="true" signature="981:1341" ph="{...}" />
+                <marker date="1513644274584" expanded="true" signature="1045:1330" ph="{...}" />
+                <marker date="1513644274584" expanded="true" signature="1440:1861" ph="{...}" />
+                <marker date="1513644274584" expanded="true" signature="1476:1851" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebHookModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Models/WebHookModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="29" />
+              <folding>
+                <marker date="1513643883544" expanded="true" signature="87:427" ph="{...}" />
+                <marker date="1513643883544" expanded="true" signature="119:425" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JiraConfigurationService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Services/JiraConfigurationService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
+              <folding>
+                <marker date="1513643126931" expanded="true" signature="6:147" ph="..." />
+                <marker date="1513643126931" expanded="true" signature="192:1000" ph="{...}" />
+                <marker date="1513643126931" expanded="true" signature="262:998" ph="{...}" />
+                <marker date="1513643126931" expanded="true" signature="360:719" ph="{...}" />
+                <marker date="1513643126931" expanded="true" signature="798:992" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IJiraConfigurationService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Services/IJiraConfigurationService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <marker date="1513643120264" expanded="false" signature="6:68" ph="..." />
+                <marker date="1513643120264" expanded="true" signature="113:242" ph="{...}" />
+                <marker date="1513643120264" expanded="true" signature="162:240" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <marker date="1513643087338" expanded="true" signature="6:371" ph="..." />
+                <marker date="1513643087338" expanded="true" signature="407:1286" ph="{...}" />
+                <marker date="1513643087338" expanded="true" signature="434:1284" ph="{...}" />
+                <marker date="1513643087338" expanded="true" signature="493:556" ph="{...}" />
+                <marker date="1513643087338" expanded="true" signature="779:929" ph="{...}" />
+                <marker date="1513643087338" expanded="true" signature="1117:1278" ph="{...}" />
+                <marker date="1513643087338" expanded="true" signature="1164:1241" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebHookSettings.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Models/WebHookSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1513644191812" expanded="true" signature="41:316" ph="{...}" />
+                <marker date="1513644191812" expanded="true" signature="76:314" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebHookEventType.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Models/WebHookEventType.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <marker date="1513644189111" expanded="true" signature="41:133" ph="{...}" />
+                <marker date="1513644189111" expanded="true" signature="76:131" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -165,13 +188,22 @@
       <find>SendAsync</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/KFCJIraWebTest/IssueManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJIraWebTest/Models/KFCIssue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJIraWebTest/Models/IssueCollectionModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJIraWebTest/Controllers/StorageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JiraConfigurationService/Controllers/ConfigurationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JiraConfigurationService/Services/JiraConfigurationService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JiraConfigurationService/Models/WebHookSettings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJira/Services/IJiraService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJira/Services/JiraService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JiraConfigurationService/Services/IJiraConfigurationService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JiraConfigurationService/Models/WebHookModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JiraConfigurationService/Models/WebHookEventType.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FC371448-A60A-4E18-9FFA-F547CF3120D7/d9/13fe4e00/HttpClient.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/KFCJira/API.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJira/AppSettings.cs" root0="FORCE_HIGHLIGHTING" />
@@ -191,20 +223,15 @@
     <setting file="file://$PROJECT_DIR$/KFCJira/Models/JiraIssue/IssueLinkModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJira/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJira/Models/JiraIssue/IssueLinkTypeModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JiraConfigurationService/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJIraWebTest/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JiraConfigurationService/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJIraWebTest/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/KFCJira/Controllers/JiraController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/KFCJira/Controllers/ValuesController.cs" />
-        <option value="$PROJECT_DIR$/KFCJira/Models/SimpleIssueModel.cs" />
-        <option value="$PROJECT_DIR$/KFCJira/Models/WebHookModel.cs" />
-        <option value="$PROJECT_DIR$/KFCJira/Models/CommentModel.cs" />
-        <option value="$PROJECT_DIR$/KFCJira/Models/CreatorModel.cs" />
-        <option value="$PROJECT_DIR$/KFCJira/Models/AssigneeDeveloperModel.cs" />
-        <option value="$PROJECT_DIR$/KFCJira/Models/StatusModel.cs" />
         <option value="$PROJECT_DIR$/KFCJira/Models/IssueStatusModel.cs" />
         <option value="$PROJECT_DIR$/KFCJira/Models/IssueLinkTypeModel.cs" />
         <option value="$PROJECT_DIR$/KFCJira/Models/IssueLinkModel.cs" />
@@ -213,7 +240,6 @@
         <option value="$PROJECT_DIR$/KFCJira/AppSettings.cs" />
         <option value="$PROJECT_DIR$/KFCJira/Services/IStorageService.cs" />
         <option value="$PROJECT_DIR$/KFCJira/Startup.cs" />
-        <option value="$PROJECT_DIR$/KFCJira/Services/StorageService.cs" />
         <option value="$PROJECT_DIR$/KFCJira/Models/IssueFieldsModel.cs" />
         <option value="$PROJECT_DIR$/KFCJira/Models/IssueModel.cs" />
         <option value="$PROJECT_DIR$/KFCJira/Models/Issue/AssigneeDeveloperModel.cs" />
@@ -247,6 +273,16 @@
         <option value="$PROJECT_DIR$/KFCJIraWebTest/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/KFCJira/Services/JiraService.cs" />
         <option value="$PROJECT_DIR$/KFCJira/Controllers/JiraController.cs" />
+        <option value="$PROJECT_DIR$/JiraConfigurationService/WebHookSettings.cs" />
+        <option value="$PROJECT_DIR$/JiraConfigurationService/Controllers/Services/JiraConfigurationService.cs" />
+        <option value="$PROJECT_DIR$/KFCJira/Services/StorageService.cs" />
+        <option value="$PROJECT_DIR$/JiraConfigurationService/Services/JiraConfigurationService.cs" />
+        <option value="$PROJECT_DIR$/JiraConfigurationService/Services/IJiraConfigurationService.cs" />
+        <option value="$PROJECT_DIR$/JiraConfigurationService/Startup.cs" />
+        <option value="$PROJECT_DIR$/JiraConfigurationService/Models/WebHookModel.cs" />
+        <option value="$PROJECT_DIR$/JiraConfigurationService/Models/WebHookSettings.cs" />
+        <option value="$PROJECT_DIR$/JiraConfigurationService/Models/WebHookEventType.cs" />
+        <option value="$PROJECT_DIR$/JiraConfigurationService/Controllers/ConfigurationController.cs" />
       </list>
     </option>
   </component>
@@ -262,6 +298,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -282,28 +319,45 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="KFCJira (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCJira (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="KFCJira (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCJira (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="JiraConfigurationService" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCJira (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="JiraConfigurationService" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCJira (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="JiraConfigurationService" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCJira (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="JiraConfigurationService" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCJira (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="KFCJira" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="KFCJira (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCJira (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="KFCJira" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="KFCJira (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="KFCJira" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="KFCJira (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCJira (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="KFCJira" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
@@ -391,12 +445,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513600890347</updated>
-      <workItem from="1513600894388" duration="21014000" />
+      <workItem from="1513600894388" duration="27305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21014000" />
+    <option name="totallyTimeSpent" value="27305000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,19 +463,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32730263" sideWeight="0.5151286" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32730263" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49394855" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49394855" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25113463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25113463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.48789713" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32730263" sideWeight="0.48487142" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -669,40 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KFCJira/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <marker date="1513622377518" expanded="false" signature="6:354" ph="..." />
-            <marker date="1513622377518" expanded="true" signature="373:1348" ph="{...}" />
-            <marker date="1513622377518" expanded="true" signature="400:1346" ph="{...}" />
-            <marker date="1513622377518" expanded="true" signature="459:522" ph="{...}" />
-            <marker date="1513622377518" expanded="true" signature="745:991" ph="{...}" />
-            <marker date="1513622377518" expanded="true" signature="1179:1340" ph="{...}" />
-            <marker date="1513622377518" expanded="true" signature="1226:1303" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KFCJIraWebTest/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <marker date="1513633286179" expanded="false" signature="6:258" ph="..." />
-            <marker date="1513633286179" expanded="true" signature="284:1446" ph="{...}" />
-            <marker date="1513633286179" expanded="true" signature="311:1444" ph="{...}" />
-            <marker date="1513633286179" expanded="true" signature="370:433" ph="{...}" />
-            <marker date="1513633286179" expanded="true" signature="656:773" ph="{...}" />
-            <marker date="1513633286179" expanded="true" signature="961:1438" ph="{...}" />
-            <marker date="1513633286179" expanded="true" signature="1008:1085" ph="{...}" />
-            <marker date="1513633286179" expanded="true" signature="1102:1186" ph="{...}" />
-            <marker date="1513633286179" expanded="true" signature="1255:1426" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/KFCJIraWebTest/IssueManager.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -848,16 +867,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KFCJira/Services/StorageService.cs">
+    <entry file="file://$PROJECT_DIR$/KFCJira/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
-            <marker date="1513624636116" expanded="false" signature="6:349" ph="..." />
-            <marker date="1513624636116" expanded="true" signature="377:1279" ph="{...}" />
-            <marker date="1513624636116" expanded="true" signature="427:1277" ph="{...}" />
-            <marker date="1513624636116" expanded="true" signature="602:723" ph="{...}" />
-            <marker date="1513624636116" expanded="true" signature="793:1271" ph="{...}" />
+            <marker date="1513622377518" expanded="false" signature="6:354" ph="..." />
+            <marker date="1513622377518" expanded="true" signature="373:1348" ph="{...}" />
+            <marker date="1513622377518" expanded="true" signature="400:1346" ph="{...}" />
+            <marker date="1513622377518" expanded="true" signature="459:522" ph="{...}" />
+            <marker date="1513622377518" expanded="true" signature="745:991" ph="{...}" />
+            <marker date="1513622377518" expanded="true" signature="1179:1340" ph="{...}" />
+            <marker date="1513622377518" expanded="true" signature="1226:1303" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCJIraWebTest/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1513633286179" expanded="false" signature="6:258" ph="..." />
+            <marker date="1513633286179" expanded="true" signature="284:1446" ph="{...}" />
+            <marker date="1513633286179" expanded="true" signature="311:1444" ph="{...}" />
+            <marker date="1513633286179" expanded="true" signature="370:433" ph="{...}" />
+            <marker date="1513633286179" expanded="true" signature="656:773" ph="{...}" />
+            <marker date="1513633286179" expanded="true" signature="961:1438" ph="{...}" />
+            <marker date="1513633286179" expanded="true" signature="1008:1085" ph="{...}" />
+            <marker date="1513633286179" expanded="true" signature="1102:1186" ph="{...}" />
+            <marker date="1513633286179" expanded="true" signature="1255:1426" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -874,10 +913,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513638892521" expanded="false" signature="6:255" ph="..." />
+            <marker date="1513638892521" expanded="true" signature="291:612" ph="{...}" />
+            <marker date="1513638892521" expanded="true" signature="318:610" ph="{...}" />
+            <marker date="1513638892521" expanded="true" signature="371:429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/KFCJira/Services/JiraService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="225">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="23" selection-end-column="0" />
           <folding>
             <marker date="1513636379187" expanded="false" signature="6:212" ph="..." />
             <marker date="1513636379187" expanded="true" signature="240:1206" ph="{...}" />
@@ -888,10 +948,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/KFCJira/Services/StorageService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <marker date="1513642849299" expanded="false" signature="6:349" ph="..." />
+            <marker date="1513642849299" expanded="true" signature="377:1119" ph="{...}" />
+            <marker date="1513642849299" expanded="true" signature="427:1117" ph="{...}" />
+            <marker date="1513642849299" expanded="true" signature="602:723" ph="{...}" />
+            <marker date="1513642849299" expanded="true" signature="793:1111" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Services/IJiraConfigurationService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1513643120264" expanded="false" signature="6:68" ph="..." />
+            <marker date="1513643120264" expanded="true" signature="113:242" ph="{...}" />
+            <marker date="1513643120264" expanded="true" signature="162:240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <marker date="1513643087338" expanded="true" signature="6:371" ph="..." />
+            <marker date="1513643087338" expanded="true" signature="407:1286" ph="{...}" />
+            <marker date="1513643087338" expanded="true" signature="434:1284" ph="{...}" />
+            <marker date="1513643087338" expanded="true" signature="493:556" ph="{...}" />
+            <marker date="1513643087338" expanded="true" signature="779:929" ph="{...}" />
+            <marker date="1513643087338" expanded="true" signature="1117:1278" ph="{...}" />
+            <marker date="1513643087338" expanded="true" signature="1164:1241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Services/JiraConfigurationService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <marker date="1513643126931" expanded="true" signature="6:147" ph="..." />
+            <marker date="1513643126931" expanded="true" signature="192:1000" ph="{...}" />
+            <marker date="1513643126931" expanded="true" signature="262:998" ph="{...}" />
+            <marker date="1513643126931" expanded="true" signature="360:719" ph="{...}" />
+            <marker date="1513643126931" expanded="true" signature="798:992" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/KFCJira/Controllers/JiraController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="15">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <marker date="1513636924698" expanded="false" signature="6:181" ph="..." />
             <marker date="1513636924698" expanded="true" signature="212:1399" ph="{...}" />
@@ -901,6 +1017,57 @@
             <marker date="1513636924698" expanded="true" signature="755:855" ph="/* var key = value.Issue.Key; ... */" />
             <marker date="1513636924698" expanded="true" signature="1092:1390" ph="{...}" />
             <marker date="1513636924698" expanded="true" signature="1188:1379" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Models/WebHookSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1513644191812" expanded="true" signature="41:316" ph="{...}" />
+            <marker date="1513644191812" expanded="true" signature="76:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Models/WebHookModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <marker date="1513643883544" expanded="true" signature="87:427" ph="{...}" />
+            <marker date="1513643883544" expanded="true" signature="119:425" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Models/WebHookEventType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1513644189111" expanded="true" signature="41:133" ph="{...}" />
+            <marker date="1513644189111" expanded="true" signature="76:131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JiraConfigurationService/Controllers/ConfigurationController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <marker date="1513644274584" expanded="true" signature="6:227" ph="..." />
+            <marker date="1513644274584" expanded="true" signature="275:1869" ph="{...}" />
+            <marker date="1513644274584" expanded="true" signature="361:1867" ph="{...}" />
+            <marker date="1513644274584" expanded="true" signature="522:594" ph="{...}" />
+            <marker date="1513644274584" expanded="true" signature="698:871" ph="{...}" />
+            <marker date="1513644274584" expanded="true" signature="981:1341" ph="{...}" />
+            <marker date="1513644274584" expanded="true" signature="1045:1330" ph="{...}" />
+            <marker date="1513644274584" expanded="true" signature="1440:1861" ph="{...}" />
+            <marker date="1513644274584" expanded="true" signature="1476:1851" ph="{...}" />
           </folding>
         </state>
       </provider>
