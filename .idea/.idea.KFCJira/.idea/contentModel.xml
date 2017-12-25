@@ -4,6 +4,7 @@
     <e p="C:\Users\evilk\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_KFCJira.-2097044088.00" t="ExcludeRecursive" />
     <e p="D:\Projects\KFCJira" t="IncludeFlat">
       <e p="JiraConfigurationService" t="IncludeRecursive">
+        <e p="API.cs" t="Include" />
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
@@ -53,6 +54,7 @@
             <e p="IssueStatusModel.cs" t="Include" />
           </e>
           <e p="KFCIssue.cs" t="Include" />
+          <e p="RelatedIssue.cs" t="Include" />
           <e p="WebHookModel.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
@@ -82,6 +84,7 @@
           <e p="HomeController.cs" t="Include" />
           <e p="StorageController.cs" t="Include" />
         </e>
+        <e p="IIssueManager.cs" t="Include" />
         <e p="IssueManager.cs" t="Include" />
         <e p="KFCJIraWebTest.csproj" t="IncludeRecursive" />
         <e p="Models" t="Include">

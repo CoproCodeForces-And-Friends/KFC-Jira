@@ -28,7 +28,7 @@ namespace KFCJira.Services
         {
             var getIssueUrl = API.Jira.GetIssue(_baseJiraUrl, key);
             var data = await _httpClient.GetStringAsync(getIssueUrl);
-            var issue = (IssueModel) JsonConvert.DeserializeObject(data, typeof(IssueModel));
+            var issue = JsonConvert.DeserializeObject<IssueModel>(data);
             return issue;
         }
     }

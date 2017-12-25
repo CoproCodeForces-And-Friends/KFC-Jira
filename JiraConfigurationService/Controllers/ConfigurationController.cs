@@ -19,9 +19,11 @@ namespace JiraConfigurationService.Controllers
         [HttpPost("CreateHook")]
         public async Task CreateWebhook([FromBody] WebHookModel model)
         {
-            var url = model.JiraUrl;
+            var url = model.BugTrackerUrl;
+            var login = model.Login;
+            var password = model.Password;
             var settings = MapToSettings(model);
-            await _jiraConfiguration.CreateWebhook(url, settings);
+            await _jiraConfiguration.CreateWebhook(url,password, login,  settings);
         }
     
         

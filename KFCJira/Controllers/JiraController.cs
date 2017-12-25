@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Threading.Tasks;
 using KFCJira.Models;
 using KFCJira.Models.Issue;
@@ -12,6 +13,7 @@ namespace KFCJira.Controllers
 
     public class JiraController : Controller
     {
+        private const string JiraName = "Jira";
         private readonly IJiraService _jiraService;
         private readonly IStorageService _storageService;
 
@@ -37,10 +39,20 @@ namespace KFCJira.Controllers
             var fields = issue.Fields;
             return new KFCIssue()
             {
+                Id = issue.Key,
+                UpdatedDate = fields.Updated,
+                CreatorId = fields.Creator.Key,
+                DeveloperId = fields?.Assignee?.Key,
+                ProjectId = issue.Key,
+                RelatedIssue = fields?.IssueLinks?.Select(t=>new RelatedIssue()
+                {
+                    ConnectionType = t.Type.Name, IssueId = t.OutwardIssue.Key
+                }).ToArray(),
                 CreationDate = fields.Created,
                 Description = fields.Description,
                 Name = issue.Key,
                 Status = fields.Status.Name,
+                SystemName = JiraName
             };
         }
 

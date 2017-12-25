@@ -1,4 +1,4 @@
-﻿namespace KFCJira.Models
+﻿namespace KFCJIraWebTest.Models
 {
     public class IssueCollectionModel
     {

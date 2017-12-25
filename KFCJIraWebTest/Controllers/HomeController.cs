@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using System.Threading.Tasks;
-using KFCJira.Models;
+using KFCJIraWebTest.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace KFCJIraWebTest.Controllers

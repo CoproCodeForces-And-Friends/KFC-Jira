@@ -14,7 +14,7 @@
         {
             public static string SendToStorage(string baseUrl)
             {
-                return $"{baseUrl}/saveissue";
+                return $"{baseUrl}/api/storage/storedata";
             }
         }
     }

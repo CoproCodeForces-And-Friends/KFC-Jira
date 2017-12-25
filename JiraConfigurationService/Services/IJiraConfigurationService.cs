@@ -5,6 +5,6 @@ namespace JiraConfigurationService.Services
 {
     public interface IJiraConfigurationService
     {
-        Task CreateWebhook(string url, WebHookSettings settings);
+        Task CreateWebhook(string url,string password, string login,  WebHookSettings settings);
     }
 }

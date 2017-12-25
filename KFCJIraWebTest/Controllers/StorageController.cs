@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices.WindowsRuntime;
 using System.Threading.Tasks;
-using KFCJira.Models;
+using KFCJIraWebTest.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace KFCJIraWebTest.Controllers
@@ -16,8 +16,8 @@ namespace KFCJIraWebTest.Controllers
         }
         
         // POST api/jira/webhook
-        [HttpPost("SaveIssue")]
-        public void SaveIssue([FromBody] KFCIssue value)
+        [HttpPost("StoreData")]
+        public void StoreData([FromBody] KFCIssue value)
         {
             _manager.SaveIssue(value);
         }

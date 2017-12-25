@@ -4,15 +4,17 @@ namespace KFCJira.Models
 {
     public class KFCIssue
     {
+        public string SystemName { get; set; }
         public string Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
         public DateTime CreationDate { get; set; }
+        public DateTime UpdatedDate { get; set; }
         public string Status { get; set; }
-        public int CreatorId { get; set; }
-        public int DeveloperId { get; set; }
+        public string CreatorId { get; set; }
+        public string DeveloperId { get; set; }
         public string[] Labels { get; set; }
-        public int ProjectId { get; set; }
-        public KFCIssue[] RelatedIssue { get; set; }
+        public string ProjectId { get; set; }
+        public RelatedIssue[] RelatedIssue { get; set; }
     }
 }

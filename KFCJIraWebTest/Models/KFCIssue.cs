@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KFCJira.Models
+namespace KFCJIraWebTest.Models
 {
     public class KFCIssue
     {
@@ -13,6 +13,6 @@ namespace KFCJira.Models
         public int DeveloperId { get; set; }
         public string[] Labels { get; set; }
         public int ProjectId { get; set; }
-        public KFCIssue[] RelatedIssue { get; set; }
+//        public KFCIssue[] RelatedIssue { get; set; }
     }
 }
